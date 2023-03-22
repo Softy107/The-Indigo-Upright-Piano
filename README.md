@@ -1,5 +1,5 @@
 # The Indigo Upright Piano
-An out-of-tune upright piano for free use in Black MIDI videos, editing, or other uses.
+The classic out-of-tune upright piano for free use in Black MIDI videos, editing, or other uses.
 
 Contains a total of :
 - 14 samples (C, F#)
