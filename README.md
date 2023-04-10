@@ -8,7 +8,8 @@ Contains a total of :
 - infinite mod env release for keys 96+
 
 Features to add
-- Higher quality samples
 - Velocity layers
+
+Higher quality samples might not be possible, as I am unlikely to get further access to the piano.
 
 License for use of samples can be found in the Samples folder
