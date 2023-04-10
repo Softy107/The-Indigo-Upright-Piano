@@ -1,4 +1,5 @@
 # The Indigo Upright Piano
+This first soundfont in the Color Piano Series.
 The classic out-of-tune upright piano for free use in Black MIDI videos, editing, or other uses.
 
 Contains a total of :
