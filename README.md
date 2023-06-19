@@ -19,8 +19,6 @@ This soundfont (will) Includes :
 This soundfont will not have vel. layers unless added by user
 
 # How To Download
-
-# How To Download
 !When downloading this version, make sure the version number starts with 2.x!
 
 If you are not familiar with downloading from Github, click this link to view the releases for this soundfont :
