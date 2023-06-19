@@ -8,9 +8,11 @@ This soundfont (will) Includes :
 
  - 29 samples (A, C, D#, F#)
  - 3 versions to choose from
-> Regular
-> Realistic Reverb
-> Clean
+
+          > Regular
+          > Realistic Reverb
+          > Clean
+
  - infinite vol env release for higher keys
 
 
