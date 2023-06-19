@@ -20,7 +20,4 @@ This soundfont will not have vel. layers unless added by user
 
 # How To Download
 
-If you are not familiar with downloading from Github, click this link to view the releases for this soundfont :
-https://github.com/Softy107/The-Indigo-Upright-Piano/releases
-
-more to be added
+Dowloading is the same as usual(check main branch), but for this version make sure the release number starts with 2.x
