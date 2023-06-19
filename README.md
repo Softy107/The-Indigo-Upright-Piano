@@ -11,6 +11,7 @@ Features to add
 - Velocity layers
 
 # How To Download
+!When downloading this version, make sure the version number starts with 1.x!
 
 If you are not familiar with downloading from Github, click this link to view the releases for this soundfont :
 https://github.com/Softy107/The-Indigo-Upright-Piano/releases
