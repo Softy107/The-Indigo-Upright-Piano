@@ -2,6 +2,8 @@
 The first soundfont in the Color Piano Series.
 The classic out-of-tune upright piano for free use in Black MIDI videos, editing, or other uses.
 
+The colour piano soundfonts work on descriptions, so more pianos might be used for 1 soundfont.
+
 Contains a total of :
 - 29 samples (A, C, D#, F#)
 - 2 versions to choose from
