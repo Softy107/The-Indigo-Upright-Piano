@@ -2,16 +2,16 @@
 The Hupfeld-Leipzig branch of the Indigo Upright Piano, is a recording of a diffrent piano entirely, but still out of tune, giving it a simmilar sound.
 The colour piano soundfonts work on descriptions, so more pianos might be used for 1 soundfont.
 
-This soundfont (will) Includes : 
+This soundfont Includes : 
 
- - 29 samples (A, C, D#, F#)
+ - 28 samples (A, C, D#, F#)
  - 3 versions to choose from
 
           > Regular
           > Realistic Reverb
-          > Clean
+          > Clean (soon)
 
- - infinite vol env release for higher keys
+ - infinite vol env release for higher keys 96+
 
 
 This soundfont will not have vel. layers unless added by user
