@@ -5,11 +5,10 @@ The colour piano soundfonts work on descriptions, so more pianos might be used f
 This soundfont Includes : 
 
  - 28 samples (A, C, D#, F#)
- - 3 versions to choose from
+ - 2 versions to choose from2
 
           > Regular
           > Realistic Reverb
-          > Clean (soon)
 
  - infinite vol env release for higher keys 96+
 
