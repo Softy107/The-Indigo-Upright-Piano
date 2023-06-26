@@ -8,7 +8,7 @@ This soundfont Includes :
  - 2 versions to choose from2
 
           > Regular
-          > Realistic Reverb
+          > Clean
 
  - infinite vol env release for higher keys 96+
 
