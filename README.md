@@ -4,6 +4,8 @@ The classic out-of-tune upright piano for free use in Black MIDI videos, editing
 
 The colour piano soundfonts work on descriptions, so more pianos might be used for 1 soundfont.
 
+Demonstration : https://youtu.be/tbc9ZYl2rqI
+
 Contains a total of :
 - 29 samples (A, C, D#, F#)
 - 2 versions to choose from
