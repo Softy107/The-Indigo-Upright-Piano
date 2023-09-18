@@ -11,8 +11,8 @@ Contains a total of :
 - 2 versions to choose from
 - infinite vol env release for keys 96+
 
-Features to add
-- Velocity layers
+Velocity layers are not a part of this soundfont, the original piano did not have this effect when playing softly.
+^^^feel free to make a mod for this
 
 # How To Download
 !When downloading this version, make sure the version number starts with 1.x!
